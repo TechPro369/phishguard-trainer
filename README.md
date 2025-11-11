@@ -34,9 +34,9 @@ The simulator includes various phishing attack types:
 - Spear phishing campaigns
 - Urgent action social engineering
 - Brand impersonation attacks
-- Link manipulation techniques
+- Link manipulation technique
 
-## Project Goals
+- ## Project Goals
 
 - Reduce successful phishing attacks through education
 - Build a security-conscious organizational culture
